@@ -1,0 +1,10 @@
+https://github.com/DMYomal/Upgrade_AI_Project_1.git
+
+Project structure:
+agentic-ai-app/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── .gitignore
+└── README.md
